@@ -18,7 +18,11 @@ body{
     border-color:black;
     width:50%;
     margin:0%;
-    height:75%
+    height:75%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWopfXeqN4GzpwD9-Ui__IJq7Kv4kAeolaaQ&s);
+}
+ol{
+    background-color: white;
 }
 li{
     margin:10px;
