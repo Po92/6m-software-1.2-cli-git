@@ -1,0 +1,33 @@
+
+body{
+    display:flexbox;
+}
+#name{
+    padding: 30px;
+    border-color: black;
+    border-style: double;
+    width:50%;
+    margin:0%;
+    height:5%;
+    font-size: xx-large;
+    text-align: center;
+}
+#list{
+    padding:30px;
+    border-style:double;
+    border-color:black;
+    width:50%;
+    margin:0%;
+    height:75%
+}
+li{
+    margin:10px;
+    font-size: larger;
+}
+img.logo {
+    width:30px;
+    height: 15px;;
+}
+em{
+    font-style: italic;
+}
